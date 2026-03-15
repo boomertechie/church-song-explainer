@@ -18,8 +18,4 @@ Worship songs teach theology whether we realize it or not. When we sing together
 
 ## How to Use It
 
-Browse the files by song name. Each file is named in lowercase with hyphens (e.g., `come-thou-fount.md`, `in-christ-alone.md`). Read whichever songs you're curious about — there's no required order.
-
-## Song List
-
-See the full list of files in this repository for all 60 songs covered.
+Browse the [`songs/`](songs/) folder by song name. Each file is named in lowercase with hyphens (e.g., `come-thou-fount.md`, `in-christ-alone.md`). Read whichever songs you're curious about — there's no required order.
