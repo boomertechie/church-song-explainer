@@ -3,7 +3,7 @@
 
 ## What This Song Teaches Us About God
 
-This hymn is almost entirely made up of God's direct words of promise — Scripture paraphrased into God's own voice, addressed personally to the one singing. You're not just singing about God; you hear God speaking to you. What He says is relentlessly comforting: I will be with you in suffering. I will hold you when you are afraid. I will not let go.
+This hymn is almost entirely made up of God's direct words of promisw. What He says is relentlessly comforting: I will be with you in suffering. I will hold you when you are afraid. I will not let go.
 
 The "foundation" in the title is God's Word and the God who stands behind it. If you've built your life on His promises, no flood, fire, enemy, or trial can ultimately destroy you. Importantly, the hymn doesn't say bad things won't happen — it assumes they will, and promises that God will be present *in* them, not just waiting on the other side. That's the kind of comfort that holds up when life actually gets hard.
 
