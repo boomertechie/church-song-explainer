@@ -1,3 +1,11 @@
+---
+reviewed: false
+reviewed_by:
+reviewed_date:
+---
+
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # All Creatures of Our God and King
 *St. Francis of Assisi, 1225; translated William Draper, 1910*
 

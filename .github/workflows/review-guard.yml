@@ -1,0 +1,90 @@
+name: Review Guard
+
+on:
+  push:
+    paths:
+      - 'songs/**/*.md'
+
+jobs:
+  check-review-status:
+    runs-on: ubuntu-latest
+    # Only run when the commit is NOT from a human GitHub account
+    # This allows direct web edits to pass through without reset
+    if: >-
+      contains(github.event.head_commit.author.email, '[bot]') ||
+      contains(github.event.head_commit.author.email, 'noreply') ||
+      contains(github.event.head_commit.message, '[ai-generated]') ||
+      contains(github.event.head_commit.message, '[ai-updated]')
+
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Reset review status on AI-modified files
+        run: |
+          BANNER='> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.'
+
+          # Get list of changed song files in this push
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'songs/*.md' 2>/dev/null || echo "")
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No song files changed."
+            exit 0
+          fi
+
+          RESET_FILES=""
+
+          for file in $CHANGED_FILES; do
+            [ -f "$file" ] || continue
+
+            # Check if currently marked as reviewed
+            if head -10 "$file" | grep -q "reviewed: true"; then
+              echo "RESETTING: $file"
+
+              # Reset reviewed flag
+              sed -i 's/^reviewed: true/reviewed: false/' "$file"
+              sed -i 's/^reviewed_by: .*/reviewed_by:/' "$file"
+              sed -i 's/^reviewed_date: .*/reviewed_date:/' "$file"
+
+              # Add banner back if missing
+              if ! grep -q "has not yet been reviewed for theological accuracy" "$file"; then
+                # Insert banner after frontmatter closing ---
+                sed -i "/^---$/,/^---$/{/^---$/{n;s/^/\n${BANNER}\n\n/;};}" "$file"
+              fi
+
+              RESET_FILES="$RESET_FILES\n- $file"
+            fi
+          done
+
+          if [ -n "$RESET_FILES" ]; then
+            git config user.name "review-guard[bot]"
+            git config user.email "review-guard[bot]@users.noreply.github.com"
+            git add songs/*.md
+            git commit -m "reset review status on AI-modified files [review-guard]"
+            git push
+          else
+            echo "No reviewed files were modified by AI. Nothing to reset."
+          fi
+
+      - name: Open review issue if files were reset
+        if: success()
+        run: |
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'songs/*.md' 2>/dev/null || echo "")
+          [ -z "$CHANGED_FILES" ] && exit 0
+
+          FILE_LIST=""
+          for file in $CHANGED_FILES; do
+            FILE_LIST="$FILE_LIST\n- [ ] \`$file\`"
+          done
+
+          [ -z "$FILE_LIST" ] && exit 0
+
+          gh issue create \
+            --title "Review needed: AI-modified song explainers" \
+            --body "$(printf "The following song explainers were modified by AI and need theological review:\n$FILE_LIST\n\nAfter reviewing each file, update the frontmatter:\n\`\`\`yaml\nreviewed: true\nreviewed_by: Your Name\nreviewed_date: $(date +%Y-%m-%d)\n\`\`\`\n\nAnd remove the review banner from the document body.")" \
+            --label "review-needed"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

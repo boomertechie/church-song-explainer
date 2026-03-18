@@ -1,3 +1,11 @@
+---
+reviewed: false
+reviewed_by:
+reviewed_date:
+---
+
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # Tis So Sweet to Trust in Jesus
 *Louisa Stead, 1882*
 
