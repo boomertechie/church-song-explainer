@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Ancient of Days
 
@@ -12,7 +10,7 @@ reviewed_date:
 
 The phrase "Ancient of Days" comes from Daniel 7, where the prophet sees a vision of God enthroned — an image of overwhelming majesty and age. To call God the Ancient of Days is to say He existed before everything else. He is not one more thing in the universe; He is the source from which the universe came.
 
-What the song holds together is a tension worth sitting with: God is eternal and mighty enough to hold the stars in place and make mountains bow, and yet He is also close enough to worship personally. His character does not change — the same God who parted the Red Sea and raised Jesus from the dead is the God we are singing to today. When things feel unstable, the Ancient of Days is a God who has been faithful across all of human history and is not about to stop.
+This song teaches us an important truth: God is eternal and mighty enough to hold the stars in place and make mountains bow, and yet He is also close enough to worship personally. His character does not change — the same God who parted the Red Sea and raised Jesus from the dead is the God we are singing to today. When things feel unstable, the Ancient of Days is a God who has been faithful across all of human history and is not about to stop.
 
 ## Scripture Connections
 
