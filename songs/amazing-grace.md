@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Amazing Grace
 *John Newton, 1772*
@@ -18,7 +16,7 @@ Grace means undeserved favor — receiving something good you have no right to c
 The hymn then carries grace all the way to eternity. "When we've been there ten thousand years, bright shining as the sun, we've no less days to sing God's praise than when we'd first begun" is saying that the joy of being with God will never get old and never run out.
 
 ## Scripture Connections
-- **Ephesians 2:8–9** — Salvation is by grace through faith, not by works, so that no one can boast — the doctrinal foundation behind Newton's experience of being saved.
+- **Ephesians 2:8–9** — Salvation is by grace through faith, not by works, so that no one can boast
 - **Luke 15:6** — Jesus's parable of the lost sheep uses the same language — "found" — to describe what God does for those who were away from Him.
 - **1 Timothy 1:15–16** — Paul calls himself the "foremost" of sinners, then points to his own life as evidence that Christ's patience and grace are available for anyone.
 
