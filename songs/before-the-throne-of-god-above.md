@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Before the Throne of God Above
 *Charitie Lees Bancroft, 1863*
@@ -13,7 +11,7 @@ reviewed_date:
 
 This song puts one of the most important questions a person could ever ask right at the center: how can someone who has done wrong, who carries guilt, ever stand before a holy God? The answer is not "try harder." The answer is Jesus — our representative, our great High Priest, who pleads our case with His own blood poured out on the cross to pay for everything we owe.
 
-Our acceptance before God does not depend on our performance. It depends entirely on what Jesus accomplished. Because He lived a perfect life and died in the place of sinners, those who trust in Him approach God with genuine assurance — not arrogance — that they are fully accepted. Our sins are forgiven and our place before God is secure because Jesus rose from the dead and continues to intercede for us. The song also speaks to our conscience — the inner voice that accuses us when we fail. That voice is real, but Jesus speaks a stronger word: "this one is mine." The Father and the Son are not in conflict. Both are united in their commitment to those who belong to Christ.
+Our acceptance before God does not depend on our performance. It depends entirely on what Jesus accomplished. Because He lived a perfect life and died in the place of sinners, those who trust in Him approach God with genuine assurance that they are fully accepted. Our sins are forgiven and our place before God is secure because Jesus rose from the dead and continues to intercede for us. The song also speaks to our conscience — the inner voice that accuses us when we fail. That voice is real, but Jesus speaks a stronger word: "this one is mine." The Father and the Son are not in conflict. Both are united in their commitment to those who belong to Christ.
 
 ## Scripture Connections
 
