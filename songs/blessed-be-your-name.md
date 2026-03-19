@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Blessed Be Your Name
 
 ## What This Song Teaches Us About God
 
-The song moves back and forth between abundance and loss, and in both it arrives at the same declaration: "Blessed be the name of the Lord." This is a direct echo of Job, who loses everything — wealth, children, health — and whose first response is worship: "The Lord gave, and the Lord has taken away. Blessed be the name of the Lord." That's not denial. That's a man who knows that God's worth isn't measured by his circumstances.
+The song moves back and forth between abundance and loss, and in both it arrives at the same declaration: "Blessed be the name of the Lord." This is a direct echo of Job, who loses everything — wealth, children, health — and whose first response is worship: "The Lord gave, and the Lord has taken away. Blessed be the name of the Lord."
 
 The bridge acknowledges that God "gives and takes away" — meaning we hold everything we have as a gift, not something we are owed. That can sound frightening until you understand that the God who holds all things is also the God who gave His own Son for us. A God that good and that faithful can be trusted even in the taking-away moments. Blessing His name in those moments is an act of trust that He is still good.
 
