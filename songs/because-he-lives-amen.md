@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Because He Lives (Amen)
 
@@ -12,7 +10,7 @@ reviewed_date:
 
 The foundation of this song is the resurrection — not as a religious idea but as the ground of everything Christians believe and how they face every stage of life. Because Jesus rose, death doesn't have the final word. The phrase "I know He holds the future" is a statement about God's sovereignty: we aren't at the mercy of chance, we're in the hands of a God who raised His Son from the dead and promises to do the same for all who belong to Him.
 
-The repeated "Amen" is doing real theological work. In biblical usage it means something like "Yes, this is true and I stake my life on it." When the congregation sings it, they're not filling a musical space — they're declaring that the resurrection is real, that it matters, and that it changes how they face their own lives and deaths.
+In biblical usage "Amen" it means something like "Yes, this is true and I stake my life on it." When the congregation sings it, they're declaring that the resurrection is real, that it matters, and that it changes how they face their own lives and deaths.
 
 ## Scripture Connections
 
