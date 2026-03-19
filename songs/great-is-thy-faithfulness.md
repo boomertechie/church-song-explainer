@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Great Is Thy Faithfulness
 *Thomas Chisholm, 1923*
