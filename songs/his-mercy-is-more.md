@@ -1,18 +1,16 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # His Mercy is More
 
 ## What This Song Teaches Us About God
 
-This song answers one of the fears many people carry into church: "Have I done too much? Gone too far? Is there a point where God's patience with me runs out?" The answer is no. God's mercy is not measured out in careful portions — it is more than our sin, more than our worst moments. The pattern of Scripture is consistent: the prodigal son came home expecting to be a servant and was embraced as a son. Peter denied Jesus three times and was not only forgiven but restored to leadership. These are not exceptions; they are examples of how God works.
+This song answers one of the fears many people carry into church: "Have I done too much? Gone too far? Is there a point where God's patience with me runs out?" The answer is no. God's mercy is not measured out in careful portions; it is more than our sin, more than our worst moments. The pattern revealed in Scripture is consistent: the prodigal son came home expecting to be a servant and was embraced as a son. Peter denied Jesus three times and was not only forgiven but restored to leadership. These are not exceptions; they are examples of how God works.
 
-God is not reluctantly merciful. He does not forgive us while holding a grudge. His mercy is "steadfast" — it does not waver based on our behavior but is rooted in who He is. When we truly grasp that, it does not produce carelessness; it produces gratitude.
+God is not reluctantly merciful. He does not forgive us while holding a grudge. His mercy is "steadfast" — it does not waver based on our behavior but is rooted in who He is. 
 
 ## Scripture Connections
 
