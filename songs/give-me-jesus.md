@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Give Me Jesus
 
 ## What This Song Teaches Us About God
 
-This song is a prayer stripped down to its most essential request: Jesus. Not comfort, not ease, not success — just Jesus. That simplicity is a theological statement. Jesus is not a means to an end or a key that unlocks a better life on our terms. He is Himself the treasure, the point, the thing we most need. The song speaks of the morning, the middle of the night, and the hour of death — the full span of life — and in every one of those moments, the answer is the same. Jesus is not only relevant for Sunday mornings. He is sufficient for the darkest moments, and those are often where His presence becomes most real.
+This song is a prayer stripped down to its most essential request: Jesus. Not comfort, not ease, not success — just Jesus. That simplicity is a theological statement. Jesus is not a means to an end or a key that unlocks a better life on our terms. He is Himself the treasure, the point, the thing we most need. The song speaks of the morning, the middle of the night, and the hour of death, and in every one of those moments, the answer is the same. Jesus is not only relevant for Sunday mornings. He is sufficient for the darkest moments, and those are often where His presence becomes most real.
 
 Rooted in the African American spiritual tradition, this song carries the weight of people who learned to treasure Jesus not because life was comfortable, but because He was all they had and all they needed. That history gives it a credibility worth feeling. The theology it expresses echoes Paul, who counted everything else as loss compared to the surpassing worth of knowing Christ. When we sing this song, we are joining a long line of people who found that Jesus was, in the end, enough.
 
