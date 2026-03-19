@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Behold Our God
 
@@ -12,7 +10,7 @@ reviewed_date:
 
 This song opens with a series of questions — "Who has held the oceans in his hands? Who has numbered every grain of sand?" — borrowed directly from Isaiah, where God asks unanswerable questions to make one point: no one compares to Him. The questions are meant to stir appropriate awe, not to crush us, but to help us understand who we are actually dealing with when we come to worship.
 
-From there the song declares that God created and sustains everything, that He is perfectly just, and that He stooped down to rescue His people. "Worthy of all our praise" is not a compliment — it is a statement of fact about what He deserves based on who He is and what He has done. The shift from transcendent to personal is what holds the song together: the God who holds the oceans in His hands is the same God who died for sinners. The one who is utterly beyond us came close — all the way to a cross — to bring us to Himself.
+From there the song declares that God created and sustains everything, that He is perfectly just, and that He stooped down to rescue His people. "Worthy of all our praise" is not a compliment — it is a statement of fact about what He deserves based on who He is and what He has done. As high and mighty as God is, this is also true: the God who holds the oceans in His hands is the same God who died for sinners. The one who is utterly beyond us came close — all the way to a cross — to bring us to Himself.
 
 ## Scripture Connections
 - **Isaiah 40:12–14** — God's rhetorical questions about who measured the waters and held the dust of the earth are the direct inspiration for the song's opening structure.
