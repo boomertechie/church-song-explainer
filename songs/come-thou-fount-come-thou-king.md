@@ -4,8 +4,6 @@ reviewed_by:
 reviewed_date:
 ---
 
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
-
 # Come Thou Fount, Come Thou King
 *Thomas Miller, modern arrangement building on Robert Robinson's 1758 melody*
 
