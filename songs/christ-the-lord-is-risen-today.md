@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Christ the Lord is Risen Today
 
 ## What This Song Teaches Us About God
 
-Every "Alleluia" in this song is a declaration, not a decoration. The resurrection of Jesus is not a spiritual metaphor — Christians have always insisted it was a real, historical event: the tomb was empty, Jesus appeared to hundreds of people, and death no longer has the final word for anyone joined to Him by faith. The song calls Jesus "our triumphant holy Lord," which means He reigns not just over individual hearts but over everything — including death itself, which Paul calls the last enemy.
+Every "Alleluia" in this song is a declaration. The resurrection of Jesus is not a spiritual metaphor, it was a real, historical event: the tomb was empty, Jesus appeared to hundreds of people, and death no longer has the final word for anyone joined to Him by faith. The song calls Jesus "our triumphant holy Lord," which means He reigns not just over individual hearts but over everything — including death itself, which Paul calls the last enemy.
 
 The resurrection is also the vindication of the cross. Jesus didn't rise as a surprise ending — He rose as God's declaration that the payment for sin was accepted and that Jesus truly is who He claimed to be. When we sing this song, we're celebrating a God who has acted decisively in history to rescue people from sin and death, and that rescue has been confirmed beyond doubt.
 
