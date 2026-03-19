@@ -1,19 +1,17 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Crown Him with Many Crowns
 *Matthew Bridges & Godfrey Thring, 1851*
 
 ## What This Song Teaches Us About God
 
-Each verse of this hymn "crowns" Jesus with a different title — Lord of life, Lord of love, Lord of heaven, Lord of years — teaching us that no single description captures everything He is. He is the fullness of God, and we could spend eternity discovering new reasons to honor Him.
+Each verse of this hymn "crowns" Jesus with a different title — Lord of life, Lord of love, etc. — teaching us that no single description captures everything He is. He is the fullness of God, and we could spend eternity discovering new reasons to honor Him.
 
-The hymn draws a direct connection between the Jesus who died and the Jesus who reigns. He bears the wounds of His crucifixion even as He wears the crown of victory. The same hands nailed to the cross now hold the scepter of a king — His suffering was not a defeat but the path to the greatest victory in history. The hymn also looks forward to a time when the church's praise on earth joins the praise of heaven. We are not starting something new each week; we are joining a chorus that has never stopped.
+The hymn draws a direct connection between the Jesus who died and the Jesus who reigns. He bears the wounds of His crucifixion even as He wears the crown of victory. The same hands nailed to the cross now hold the scepter of a king. The hymn also looks forward to a time when the church's praise on earth joins the praise of heaven. Each week when we gather together as a local body of believers we are joining a chorus that started long ago and will continue through eternity.
 
 ## Scripture Connections
 
