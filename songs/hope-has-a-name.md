@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Hope Has a Name
 
@@ -12,7 +10,7 @@ reviewed_date:
 
 This song makes a bold, specific claim: hope is not a feeling or an attitude — it is a person. That matters because the word "hope" gets used in vague ways. Wishful thinking has no real foundation. The hope this song is talking about is grounded in who Jesus is and what He has done, which means it cannot be shaken by circumstances.
 
-That foundation is the resurrection. When Jesus rose from the dead, He proved that death is not the final word. Because He conquered death, those who belong to Him have a guaranteed future on the other side of their own death. This is not optimism — it is confidence based on evidence. The resurrection already happened. Whatever you are walking through, the song is saying, there is someone whose name you can call on who has already overcome the worst thing that could ever happen.
+That foundation is the resurrection. When Jesus rose from the dead, He proved that death is not the final word. Because He conquered sin and death, those who belong to Him have a guaranteed future on the other side of their own death. The resurrection already happened. Whatever you are walking through, the song is saying, there is someone whose name you can call on who has already paid the punishment our sin deserved; we have a savior.
 
 ## Scripture Connections
 - **Romans 5:5** — Paul says that hope does not disappoint because God's love has been poured into our hearts, grounding hope in God's character rather than our circumstances.
