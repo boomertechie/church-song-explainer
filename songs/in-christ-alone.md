@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # In Christ Alone
 
 ## What This Song Teaches Us About God
 
-The most important theological moment in the song is the line about the cross: "the wrath of God was satisfied." This is the doctrine of propitiation — on the cross, Jesus absorbed the punishment that sin deserved so that everyone who trusts in Him doesn't have to face it. God is perfectly holy and perfectly just, which means sin cannot simply be overlooked. But God is also full of love, and rather than leaving us to face the consequences of our sin, He sent His Son to face them in our place. The cross is where God's justice and God's love meet — and both are fully honored.
+The most important theological moment in the song is the line about the cross: "the wrath of God was satisfied." On the cross, Jesus absorbed the punishment that sin deserved so that everyone who trusts in Him doesn't have to face it. God is perfectly holy and perfectly just, which means sin cannot simply be overlooked. But God is also love, and rather than leaving us to face the consequences of our sin, He sent His Son to bear the punishment that we deserved. The cross is where God's justice and God's love meet — and both are fully honored.
 
 Because of what Christ has done, there is nothing — no accusation, no failure, no fear, no death — that can ultimately defeat the Christian. "No guilt in life, no fear in death" is a claim grounded in the resurrection. Our security doesn't rest on how well we've lived or how strong our faith feels — it rests entirely on Christ. That's exactly what the title means.
 
