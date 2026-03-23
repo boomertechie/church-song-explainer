@@ -1,18 +1,16 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # How Deep the Father's Love for Us
 
 ## What This Song Teaches Us About God
 
-Most songs about the cross focus on what Jesus endured. This one focuses on what the Father chose — He chose not to spare His own Son. He could have. But He didn't. The reason is love for people who did nothing to deserve it. That's the "how deep" the song is asking about.
+Most songs about the cross focus on what Jesus endured. This one focuses on what the Father chose — He chose not to spare His own Son. The reason is love for people who did nothing to deserve it. That's the "how deep" the song is asking about.
 
-The song also takes us to the moment when Jesus cried out "My God, my God, why have you forsaken me?" Theologians describe this as the moment when Jesus — who had never experienced a second of separation from His Father — experienced that separation on behalf of everyone whose sins He was bearing. The anguish of the cross is not evidence that God is absent or cruel. It is evidence of how far He was willing to go to bring His people home. The final verse responds to all of this not with achievement but with sober gratitude: the singer's only boast is that Jesus knows their name and chose to go to the cross for them.
+The song also takes us to the moment when Jesus cried out "My God, my God, why have you forsaken me?" Theologians describe this as the moment when Jesus — who had never experienced a second of separation from His Father — experienced that separation on behalf of everyone whose sins He was bearing. The anguish of the cross is not evidence that God is absent or cruel. It is evidence of the love and compassion He shows to His people. The final verse responds to all of this not with achievement but with sober gratitude: the singer's only boast is that Jesus knows their name and chose to go to the cross for them.
 
 ## Scripture Connections
 
