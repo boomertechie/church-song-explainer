@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # I Need Thee Every Hour
 *Annie Hawks, 1872*
@@ -13,7 +11,7 @@ reviewed_date:
 
 Annie Hawks wrote this hymn during an ordinary moment of housework, struck by how much she needed Jesus not just in crisis but in every regular hour. That ordinariness is the point. We were not designed to check in with God only in emergencies. The repeated "I need Thee" is a kind of spiritual training — learning to recognize that apart from Jesus, even the ordinary things of life become emptier and harder.
 
-The song is also honest about temptation: "temptations lose their power when Thou art nigh." Nearness to Jesus is not just comfort — it is protection. We are people who drift and rationalize wrong choices most easily when we are not staying close to God.
+The song is also honest about temptation: "temptations lose their power when Thou art nigh." Nearness to Jesus is both protection and our comfort. We are people who drift and rationalize wrong choices most easily when we are not staying close to God.
 
 ## Scripture Connections
 
