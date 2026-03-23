@@ -1,10 +1,8 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # Jesus Loves Me
 *Anna Bartlett Warner, 1860*
@@ -20,3 +18,4 @@ The line "they are weak but He is strong" is the gospel in miniature. We come to
 - **John 3:16** — "God so loved the world" is the foundation under everything this song affirms about Jesus's love being real and given freely.
 - **Romans 5:8** — God demonstrated His love for us while we were still sinners, which is the same heart the song captures when it says we are weak and He is strong.
 - **1 John 4:19** — We love because He first loved us; the song is a response to a love that began with God, not with us.
+- **Psalm 139:13-16** - "For you formed my inward parts; you knitted me together in my mother’s womb" God does not just know us, he has always known us, even when we were still in the womb
