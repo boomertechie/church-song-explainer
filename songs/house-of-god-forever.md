@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # House of God Forever
 
 ## What This Song Teaches Us About God
 
-This song puts the ancient promises of Psalm 23 in the present tense. David wrote that psalm as a man who had genuinely faced dark valleys, real enemies, and seasons of want. The shepherd image is worth understanding: in David's world, a shepherd was not passive. He actively chose safe routes to water and pasture, carried a rod to fight off predators, and walked through dangerous territory with his flock — not around it. "You are my shepherd, I have all I need" is a bold claim about God's active, personal involvement in our lives.
+This song puts the ancient promises of Psalm 23 in the present tense. David wrote that psalm as a man who had genuinely faced dark valleys, real enemies, and seasons of want. In David's world, a shepherd was not passive. He actively chose safe routes to water and pasture, carried a rod to fight off predators, and walked through dangerous territory with his flock — not around it. "You are my shepherd, I have all I need" is a bold claim about God's active, personal involvement in our lives.
 
 The final promise — dwelling in the house of God forever — points to the gospel's ultimate horizon. This life, with its valleys and threats, is not the whole story. The shepherd walking with us through hard places is leading us somewhere: to a home with Him that never ends.
 
