@@ -1,5 +1,5 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
@@ -13,7 +13,7 @@ This is a gospel invitation set to music. The song's spine is Matthew 11:28 — 
 
 The first verse calls us to "the mercy seat" — an Old Testament term for the golden lid of the Ark of the Covenant, the one place where God met sinners through the blood of a sacrifice. The New Testament says that Jesus Himself is now our mercy seat (Romans 3:25). What used to require a high priest entering the holiest room once a year is now open to anyone who comes through Christ. And the beauty of the gospel is that God Himself draws people to come — it is His initiative, not ours, that gets us there (John 6:44). The second verse stacks up titles — Joy of the comfortless, Light of the straying, Hope of the penitent — each one answering a specific kind of human brokenness. The third verse moves to the Lord's Supper: "Taste of the Bread of Life, broken for sinners." And the final verse is honest about the cost — following Jesus means laying down your old life, taking up your cross, and counting everything else as loss.
 
-That combination matters. The song does not offer cheap comfort. It offers a real Savior who meets you at your worst, forgives everything for all who come to Him, and then invites you into a life that costs everything — and is worth infinitely more than what you gave up.
+The song does not offer cheap comfort. It offers a real Savior who meets you at your worst, forgives everything for all who come to Him, and then invites you into a life that costs everything — and is worth infinitely more than what you gave up.
 
 ## Scripture Connections
 
