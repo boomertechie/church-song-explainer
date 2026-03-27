@@ -4,6 +4,8 @@ reviewed_by:
 reviewed_date:
 ---
 
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # The Love of God
 *Frederick M. Lehman, 1917 (verse 3 adapted from an ancient Jewish liturgical poem, c. 1050)*
 

@@ -4,6 +4,8 @@ reviewed_by:
 reviewed_date:
 ---
 
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # Come Unto Jesus
 *Jordan Kauflin, Matt Merker, Laura Story (adapted from Thomas Moore, 1816 / Thomas Hastings, 1831); performed by Shane & Shane, 2024*
 

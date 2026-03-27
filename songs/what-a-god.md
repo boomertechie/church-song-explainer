@@ -4,6 +4,8 @@ reviewed_by:
 reviewed_date:
 ---
 
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # What a God
 *Bobby Walker, Brunes Charles, Chelsea Plank, Kenzie Walker, Roosevelt Stewart (SEU Worship), 2024*
 

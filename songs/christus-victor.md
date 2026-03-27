@@ -4,6 +4,8 @@ reviewed_by:
 reviewed_date:
 ---
 
+> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
+
 # Christus Victor (Amen)
 *Keith Getty, Kristyn Getty, Matt Boswell, Matt Papa, Bryan Fowler, 2024*
 
