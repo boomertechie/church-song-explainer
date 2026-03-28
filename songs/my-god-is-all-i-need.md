@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # My God is All I Need
 
 ## What This Song Teaches Us About God
 
-This song declares that God is not just helpful but genuinely sufficient — enough for everything. It makes that claim on the basis of who God is: His character, His faithfulness, His presence, and His promises. Paul said he had "learned in whatever situation he was in to be content" — contentment is not a feeling that arrives when life cooperates, but a settled trust that having God means having what matters most.
+This song declares that God is not just helpful but genuinely sufficient — enough for everything. It makes that claim on the basis of who God is: His character, His faithfulness, His presence, and His promises. Paul said he had "learned in whatever situation he was in to be content" — contentment is not a feeling that arrives when life cooperates, but a settled trust that trusting God means having everything we need.
 
 The song carries particular weight in seasons of loss. When health, relationships, or stability are taken away, it is not offering cheap optimism. It is pointing to the one thing that cannot be taken. "My God is all I need" is not a claim that nothing else matters — it is a claim about what endures when everything else is stripped away.
 
