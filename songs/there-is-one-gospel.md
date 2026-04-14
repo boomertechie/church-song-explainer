@@ -1,16 +1,14 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # There is One Gospel
 
 ## What This Song Teaches Us About God
 
-The gospel is not primarily about what we do but about what Jesus has done. He obeyed perfectly on our behalf, bore the punishment for sin so we would not have to, and rose so that we could have real, lasting hope beyond death. This is called "substitution" — Jesus standing in our place — and it is the engine that drives everything Christians believe. When we understand this, it transforms how we see both our failures (already forgiven) and our future (already secured).
+The gospel is not about what we do but about what Jesus has done. He obeyed perfectly on our behalf, bore the punishment our sin deserved, and rose so that we could have real, lasting hope beyond death. This is called "substitution" — Jesus standing in our place — and it is the engine that drives everything Christians believe. When we understand this, it transforms how we see both our failures (already forgiven) and our future (already secured).
 
 The song carries a note of confidence: there is one gospel, and it is enough. The cross is not a starting point that gets upgraded — it is the finished work of a sufficient Savior. "It is finished" were the actual words Jesus spoke before He died, and this song echoes that completeness.
 
