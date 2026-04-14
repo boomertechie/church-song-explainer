@@ -1,19 +1,17 @@
 ---
-reviewed: false
+reviewed: true
 reviewed_by:
 reviewed_date:
 ---
-
-> **Note:** This content was generated with AI assistance and has not yet been reviewed for theological accuracy. Please read with discernment and compare with Scripture.
 
 # This Is My Father's World
 *Maltbie Babcock, 1901*
 
 ## What This Song Teaches Us About God
 
-This hymn declares what is easy to forget when the world feels chaotic: everything we see belongs to God. Trees, sky, morning light — none of it is random or ownerless. It was made by God, belongs to Him, and still speaks of Him. The line "though the wrong seems oft so strong, God is the ruler yet" is one of the most honest and comforting lines in all of Christian hymnody. It doesn't pretend the world is fine. It acknowledges that things are broken — and insists that none of that brokenness changes who is on the throne. God's sovereignty is not threatened by the mess we see around us.
+This hymn declares what is easy to forget when the world feels chaotic: everything we see belongs to God. Trees, sky, morning light — none of it is random or ownerless. It was made by God, belongs to Him, and still speaks of Him. The line "though the wrong seems oft so strong, God is the ruler yet" is one of the most honest and comforting lines in all of Christian hymnody. It doesn't pretend the world is fine. It acknowledges that things are broken and insists that none of that brokenness changes who is on the throne. God's sovereignty is not threatened by the mess we see around us.
 
-The hymn also trains us to see creation through the lens of worship. A sunrise isn't just pretty — it's a gift from a Father who loves us. The ordinary world around us is saturated with the glory of God.
+The hymn also trains us to see creation through the lens of worship. A sunrise isn't just pretty, it's a gift from a Father who loves us. The ordinary world around us is saturated with the glory of God.
 
 ## Scripture Connections
 - **Psalm 24:1** — "The earth is the Lord's, and everything in it" — the theological cornerstone the entire hymn rests on
