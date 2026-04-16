@@ -1,32 +1,32 @@
-# Church Song Explainer
+# Church Song Explainer — Moved
 
-Plain-language theology explainers for the worship songs our church sings, written for people who are new to the faith or haven't had much opportunity to study the Bible yet.
+This project has been merged into the **Digging Deeper** small group site at
+[**diggingdeeper.church**](https://diggingdeeper.church).
 
-## What This Is
+The worship song explainers now live alongside our weekly small group study
+notes under one roof, with a shared scripture cross-index so you can browse
+by book of the Bible across both collections.
 
-Each file covers one song from our church's worship rotation (~60 songs). The goal is not a comprehensive theological commentary, rather it's a brief, accessible explanation of what the song is actually teaching about God, with scripture references so you can dig deeper on your own.
+This repository is **archived**. The song content here is a snapshot and will
+not receive further updates. New and revised explainers are published at the
+URL above.
 
-## What Each Entry Includes
+## What this was
 
-- **What This Song Teaches Us About God** — A short explanation of the theology behind the song in plain language
-- **Scripture Connections** — Bible passages that connect to the song's themes, with a one-line explanation of each
-- **Clarifying the Language** *(older hymns only)* — Definitions for archaic words or phrases that might be confusing (e.g., "What's an Ebenezer?")
+Plain-language theology explainers for ~60 worship songs our church sings,
+written for people new to the faith or who haven't had much opportunity to
+study the Bible yet. Each file covered one song and included:
 
-## Why This Exists
+- **What This Song Teaches Us About God** — a short plain-language explanation
+- **Scripture Connections** — Bible passages tied to the song's themes
+- **Clarifying the Language** *(older hymns only)* — definitions for archaic
+  words or phrases
 
-Worship songs teach theology whether we want to admit it or not. When we sing together on Sunday mornings, we're declaring truths about who God is and what He has done. Some of those truths — especially in older hymns — are expressed in language that can be confusing if you're encountering it for the first time. This library exists to bridge that gap so that everyone can engage with what we're singing and understand why it matters.
+## A note on AI and theological content
 
-## A Note on AI and Theological Content
-
-These explainers were drafted with AI assistance. While AI can be a helpful tool for organizing and articulating ideas, it is not a theologian and cannot be held accountable for what it teaches. Theology matters too much to present unchecked AI output as trustworthy teaching.
-
-Each song file includes a review status in its frontmatter:
-
-- **`reviewed: false`** — This content has not yet been verified by a person. A visible banner will appear at the top of the file. Read with discernment and compare everything with Scripture.
-- **`reviewed: true`** — A person has read through this content and affirmed that it is theologically sound. The `reviewed_by` and `reviewed_date` fields indicate who reviewed it and when.
-
-If AI modifies a previously reviewed file, the review status is automatically reset to `false` until a person reviews it again.
-
-## How to Use It
-
-Browse the [`songs/`](songs/) folder by song name. Each file is named in lowercase with hyphens (e.g., `come-thou-fount.md`, `in-christ-alone.md`). Read whichever songs you're curious about — there's no required order.
+These explainers were drafted with AI assistance. AI is a useful drafting tool
+but is not a theologian and cannot be held accountable for what it teaches.
+Each song in the merged site carries a `reviewed` status indicating whether a
+person has verified the content, and a visible banner appears on any entry
+that has not yet been reviewed. Read with discernment and compare everything
+with Scripture.
